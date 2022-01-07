@@ -7,11 +7,11 @@ setup(
     long_description=(
         "logster is the logging one-liner solution for development"
         + "environments. See example usage at"
-        + "https://github.com/aljabadi/logster/blob/master/README.md."
-        + "This is a development project. Feedback/enhancements are welcome."
+        + " https://github.com/aljabadi/logster/blob/master/README.md\n"
+        + " This is a development project. Feedback/enhancements are welcome."
     ),
     url="https://github.com/aljabadi/logster",
-    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.5.0.tar.gz",
+    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.6.0.tar.gz",
     author="Al J Abadi",
     author_email="al.jal.abadi@gmail.com",
     license="MIT",
