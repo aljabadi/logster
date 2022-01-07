@@ -2,8 +2,8 @@
 
 ## installation
 
-```
-python -m pip install git+https://github.com/aljabadi/logster.git
+```bash
+python3 -m pip install logster
 ```
 ## usage
 ```python
