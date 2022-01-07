@@ -5,6 +5,7 @@ setup(
     version="0.3.0",
     description="Easy python console logging with colourful formatting",
     url="https://github.com/aljabadi/logster",
+    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.3.0.tar.gz",
     author="Al J Abadi",
     author_email="al.jal.abadi@gmail.com",
     license="MIT",
