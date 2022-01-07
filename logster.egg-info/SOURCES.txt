@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+logster/__init__.py
+logster.egg-info/PKG-INFO
+logster.egg-info/SOURCES.txt
+logster.egg-info/dependency_links.txt
+logster.egg-info/not-zip-safe
+logster.egg-info/top_level.txt
