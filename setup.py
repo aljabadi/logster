@@ -4,6 +4,11 @@ setup(
     name="logster",
     version="0.3.0",
     description="Easy python console logging with colourful formatting",
+    long_description = """logster is the logging one-liner solution for development 
+    environments. See example usage at 
+    https://github.com/aljabadi/logster/blob/master/README.md.
+    This is a development project. Feedback/enhancements are welcome.
+    """
     url="https://github.com/aljabadi/logster",
     download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.3.0.tar.gz",
     author="Al J Abadi",
