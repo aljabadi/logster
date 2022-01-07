@@ -1,4 +1,11 @@
 # logster - python logging made easy
+
+## installation
+
+```
+python -m pip install git+https://github.com/aljabadi/logster.git
+```
+## usage
 ```python
 from logster import setup_logger
 
