@@ -5,13 +5,13 @@ setup(
     version="0.6.0",
     description="Easy python console logging with colourful formatting",
     long_description=(
-        "logster is the logging one-liner solution for development"
-        + "environments. See example usage at"
-        + " https://github.com/aljabadi/logster/blob/master/README.md\n"
-        + " This is a development project. Feedback/enhancements are welcome."
+        "logster is the one-liner console logging solution for development environments."
+        + "See example usage at\n"
+        + "https://github.com/aljabadi/logster/blob/master/README.md"
+        + "\nThis is a development project. Feedback/enhancements are welcome."
     ),
     url="https://github.com/aljabadi/logster",
-    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.6.0.tar.gz",
+    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.7.0.tar.gz",
     author="Al J Abadi",
     author_email="al.jal.abadi@gmail.com",
     license="MIT",
