@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="logster",
-    version="0.3.0",
+    version="0.4.0",
     description="Easy python console logging with colourful formatting",
     long_description = """logster is the logging one-liner solution for development 
     environments. See example usage at 
