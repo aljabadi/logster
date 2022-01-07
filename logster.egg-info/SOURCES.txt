@@ -1,5 +1,6 @@
 LICENSE
 README.md
+setup.cfg
 setup.py
 logster/__init__.py
 logster.egg-info/PKG-INFO
