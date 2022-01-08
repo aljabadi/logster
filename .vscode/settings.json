@@ -1,0 +1,30 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": null,
+        "editor.rulers": [
+            88,
+            98
+        ]
+    },
+    "python.linting.flake8Args": [
+        "--max-line-length=88",
+    ],
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+        "**/.history": true,
+        "**/.tox": true,
+        "**/__pycache__": true,
+        "**/.venv": true,
+    },
+}
