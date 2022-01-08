@@ -3,6 +3,7 @@ README.md
 setup.cfg
 setup.py
 logster/__init__.py
+logster/classes.py
 logster.egg-info/PKG-INFO
 logster.egg-info/SOURCES.txt
 logster.egg-info/dependency_links.txt
