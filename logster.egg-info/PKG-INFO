@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: logster
-Version: 0.7.0
+Version: 0.8.0
 Summary: Easy python console logging with colourful formatting
 Home-page: https://github.com/aljabadi/logster
 Author: Al J Abadi
 Author-email: al.jal.abadi@gmail.com
 License: MIT
-Download-URL: https://github.com/aljabadi/logster/archive/refs/tags/v0.7.0.tar.gz
+Download-URL: https://github.com/aljabadi/logster/archive/refs/tags/v0.8.0.tar.gz
 Platform: UNKNOWN
 Classifier: Development Status :: 2 - Pre-Alpha
 Classifier: Intended Audience :: Developers
