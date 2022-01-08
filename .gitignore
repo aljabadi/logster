@@ -6,3 +6,4 @@ __pycahce__
 dist
 requirements.txt
 .tox
+.coverage

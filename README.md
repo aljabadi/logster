@@ -1,5 +1,7 @@
 # logster - python logging made easy
 
+![](https://github.com/aljabadi/logster/actions/workflows/testcov.yml/badge.svg)
+
 ### installation
 
 ```bash
