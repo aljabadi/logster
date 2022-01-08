@@ -1,11 +1,11 @@
 # logster - python logging made easy
 
-## installation
+### installation
 
 ```bash
 python3 -m pip install logster
 ```
-## usage
+### usage
 ```python
 from logster import setup_logger
 
@@ -20,3 +20,7 @@ logger.critical("This is a critical message, we're past just adding another #TOD
 ```
 
 ![](static/demo.png)
+
+### Credits
+
+* Sergey Pleshakov: https://stackoverflow.com/a/56944256/8816796
