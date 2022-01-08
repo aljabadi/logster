@@ -5,3 +5,4 @@ __pycahce__
 .DS_Store
 dist
 requirements.txt
+.tox
