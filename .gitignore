@@ -4,3 +4,4 @@ __pycahce__
 .history
 .DS_Store
 dist
+requirements.txt
