@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="logster",
-    version="0.9.0",
+    version="0.10.0",
     description="Easy python console logging with colourful formatting",
     long_description=(
         "logster is the one-liner console logging solution for development environments."
@@ -11,7 +11,7 @@ setup(
         + "\nThis is a development project. Feedback/enhancements are welcome."
     ),
     url="https://github.com/aljabadi/logster",
-    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.9.0.tar.gz",
+    download_url="https://github.com/aljabadi/logster/archive/refs/tags/v0.10.0.tar.gz",
     author="Al J Abadi",
     author_email="al.jal.abadi@gmail.com",
     license="MIT",
